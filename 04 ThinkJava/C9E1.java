@@ -1,5 +1,5 @@
 /**
- * Test
+ * ThinkJava C9E1
  * @author Victor Lourng
  * @version	2016
  */
